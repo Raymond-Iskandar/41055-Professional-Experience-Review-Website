@@ -1,0 +1,77 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.studies{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.email{
+    text-align: center;
+}
+
+ul.no-bullets{
+    list-style-type: none;
+}
+
+li.no-bullets{
+    list-style-type: none; 
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.project-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.project-left {
+    display: flex;
+    gap: 6px;
+}
+
+.tools {
+    font-style: italic;
+}
+
+.date {
+    white-space: nowrap;
+}
+
+
+.hyphen-list{
+    list-style-type: "– ";
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.bullets{
+    list-style-type: disc;
+    font-weight: normal;
+}
+
+hr{
+    border: none;
+    border-top: 2px solid black;
+
+}
+
+body{
+    background-color: rgb(228, 246, 156);
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size:x-large;
+}
